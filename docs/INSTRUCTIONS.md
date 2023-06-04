@@ -8,6 +8,10 @@ Deze deeltaak hoort bij sprint 11 "Connecting People". Dit is een deeltaak die j
 
 In het college S11W1-02-UI-Stack wordt behandeld wat de UI-Stack is en hoe je states van de UI-Stack kan ontwerpen in een Wireflow.
 
+Deze deeltaak hoort bij de leertaak:
+- [
+reatlime-web-app](https://github.com/fdnd-task/connecting-people-realtime-web-app) 
+
 ## Doel van deze opdracht
 
 Leren hoe je verschillende states van de UI-Stack kan tonen in de interface.
